@@ -1,0 +1,27 @@
+<html>
+
+<body align="center">
+<h1>Dine Booking</h1>
+<form>
+visitorname:<input type="text"><br>
+Number of members:<input type="number"><br>
+Contactno:<input type="number"><br>
+Email:<input type="email"><br>
+Typeoffood:<input type="checkbox" name="food">southIndian
+<input type="checkbox" name="food">NorthIndian
+<input type="checkbox" name="food">chinese
+<input type="checkbox" name="food">western
+<br>
+Room status:<input type="radio" name="status" checked="checked">AC
+<input type="radio" name="status">Non-AC<br>
+Venue Preference:<select name="flowers">
+<option>Arena</option>
+<option>Fiesta</option>
+<option>Vista</option>
+</select>
+<br>
+<input type="submit" value="book">
+<input type="reset" value="reset">
+</form>
+</body>
+</html>
