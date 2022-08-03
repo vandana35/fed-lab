@@ -1,0 +1,36 @@
+<html>
+<body align="center">
+<h1>Infy music for you....</h1>
+<audio controls>
+<source src="/home/net/Downloads/abc.mp3" type="audio/mpeg">
+</audio>
+<table align="center" border="1">
+<h3>venue and vendor details</h3>
+<tr>
+<th>Venue</th>
+<th>Vendors</th>
+</tr>
+<tr>
+<td>Arena</td>
+<td>Amul,juicejunction</td></tr>
+<tr>
+<td>vista</td>
+<td>Dominos</td></tr>
+<tr>
+<td>Maitri</td>
+<td>polarbear,kfc</td></tr>
+<tr>
+<td>Magna</td>
+<td>Metricool,dolphin</td></tr>
+<tr>
+<td>oasis</td>
+<td>Dolphin,loyalworld</td></tr>
+<tr>
+<td>fiesta</td>
+<td>polar bear,dominos,chickpunch</td></tr>
+</table>
+<br>
+<video controls>
+<source src="https://www.youtube.com/watch?v=gcS6NWd5y7I" type="video/mp4">
+</video>
+</body></html>
